@@ -1,4 +1,4 @@
-package com.example.scube_task
+package com.scube.task
 
 import io.flutter.embedding.android.FlutterActivity
 
